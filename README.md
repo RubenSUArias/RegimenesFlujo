@@ -7,7 +7,7 @@ En conjunto se entrena un modelo de clasificación a partir de datos de presión
 ## Contenido
 ### regimenesdeflujo.py
 Toma como entrada un archivo de entrenamiento con datos de presión y sus derivadas para realizar una regresión logística y empaquetar el modelo en un archivo usable .pkl
-
+![image](https://github.com/RubenSUArias/RegimenesFlujo/blob/main/Almacenamientodatos41.2.png)
 
 ### Executable.py 
 Toma como entrada datos de una prueba de presión datos41.2.dat y el modelo pkl para clasificar sus regímenes de flujo y evaluar permeabilidad, almacenamiento y daño a partir de datos solicitados al usuario y generando un reporte en formato pdf.

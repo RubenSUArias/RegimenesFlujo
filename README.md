@@ -1,4 +1,6 @@
 # Clasifica Regímenes de flujo de pruebas de presión y evalúa diversas propiedades
+![image](https://github.com/user-attachments/assets/10424cb7-dc84-48e6-8a2c-9a0dbf6c8131)
+
 Hace años empecé este proyecto con el objetivo de titularme como ingeniero petrolero con el, sin embargo por falta de datos no se llegó a completar. 
 En conjunto se entrena un modelo de clasificación a partir de datos de presión y sus derivadas para clasificar regímenes de flujo y elaborar un reporte de resultados. 
 
